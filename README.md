@@ -1,8 +1,10 @@
 # Portfolio Builder
 
 Portfolio Builder is a web application for creating and managing portfolios with a dynamic UI and interactive features.
+<br/>
 
-
+<img width="940" alt="Screenshot 2024-07-11 180118" src="https://github.com/Anshuldhakate/Portfolio-Builder/assets/123949154/4de56ab5-fd4f-4aa4-bc91-e09a67ca644b">
+<br/>
 ## Features
 
 - **Dynamic UI:** Built with React and Chakra UI for a modern and responsive interface.
